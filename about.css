@@ -1,0 +1,21 @@
+body{
+  background-image: url(logo.jpeg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+} 
+div{
+  font-family: cursive;
+  font-size: 25px;
+  text-align: center;
+  color: black;
+}
+span{
+  font-weight: bolder;
+  font-size: 60px;
+color: tomato;
+}
+
+
+
+
